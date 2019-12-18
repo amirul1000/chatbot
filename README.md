@@ -1,4 +1,5 @@
 "# chatbot" 
+
 Login Logout & Register in  PHP MySQL.User info is in Session and Protect from unautoherized Permission
 
 Sometimes we dont have enough time to chat with customer being online 24 hrs.On the other hand customer is not interested to read the FAQ (Frequently asked questions).So what is the solution.We can make customer happy by replying immediate answer of their question with  a chatbot.
