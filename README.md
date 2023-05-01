@@ -10,3 +10,7 @@ and finally we will take decesion that the answer is the answer field of same re
 Youtube Tutorial : https://youtu.be/8MYk42Bw4-U
 
 Donate to Paypal : patabuz@gmail.com
+
+
+
+https://way2k.com/?ref=amirrucst
