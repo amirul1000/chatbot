@@ -7,7 +7,7 @@ we will have a list of predefined question and answer into database table
 When they will ask a question we will count the matching word into the predefined questions in table and calculate the  maximum matching words from the table's question list.
 and finally we will take decesion that the answer is the answer field of same record  of that maximum words of the customer's sending question
 
-Youtube Tutorial : https://youtu.be/8MYk42Bw4-U
+Youtube Tutorial : https://www.youtube.com/watch?v=60R10_LlVq0
 
 Donate to Paypal : patabuz@gmail.com
 
