@@ -13,4 +13,3 @@ Donate to Paypal : patabuz@gmail.com
 
 
 
-https://way2k.com/?ref=amirrucst
